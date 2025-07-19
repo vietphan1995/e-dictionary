@@ -6,9 +6,9 @@
 
 e-dictionary is a application software help you lookup meaning, sentences from short code, summary characters as digital dictionary. These short codes are accepted and used widely in community, social, organization, …
 
-e-dictionary organize duplication short code and explain to meaning, sentence correspond to your community, group, … Your definition for short code in your company, group can be saved as private or public in wider community.
+e-dictionary organizes duplication short code and explain to meaning, sentence correspond to your community, group, … Your definition for short code in your company, group can be saved as private or public in wider community.
 
-e-dictionary improve your communicate in your organize also community, you can look up from e-dictionary, show meaning by integration methods (notebook, editor, media script, …).
+e-dictionary improves your communicate in your organize also community, you can look up from e-dictionary, show meaning by integration methods (notebook, editor, media script, …).
 
 Example:
 
