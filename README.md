@@ -20,13 +20,7 @@ WWW → World Wide Web
 
 FIFA, CEO, BTC, …
 
-[e-dictionary::ref](https://www.notion.so/e-dictionary-ref-24c5e832d6ee80a09ca8faf4186a8472?pvs=21) 
-
-### [Projects](https://www.notion.so/Projects-23d5e832d6ee80149cedda9c49fefe21?pvs=21)
-
 ### [back to git projects …](https://github.com/vietphan1995/projects)
-
-[https://github.com/vietphan1995/projects](https://github.com/vietphan1995/projects)
 
 ### Notes
 https://phantrungviet.notion.site/e-dictionary-1b25e832d6ee8058ae52eb70775cec46
