@@ -1,6 +1,8 @@
 # e-dictionary
 
-# Introduction
+## eDictionary
+
+### Introduction
 
 [https://github.com/vietphan1995/e-dictionary.git](https://github.com/vietphan1995/e-dictionary.git)
 
@@ -18,7 +20,9 @@ WWW → World Wide Web
 
 FIFA, CEO, BTC, …
 
-[back to projects …](https://github.com/vietphan1995/projects)
+[https://github.com/vietphan1995/e-dictionary.git](https://github.com/vietphan1995/e-dictionary.git)
+
+[https://github.com/vietphan1995/projects](https://github.com/vietphan1995/projects)
 
 ### Notes
 https://phantrungviet.notion.site/e-dictionary-1b25e832d6ee8058ae52eb70775cec46
