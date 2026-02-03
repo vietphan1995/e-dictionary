@@ -6,6 +6,8 @@
 
 [https://github.com/vietphan1995/e-dictionary.git](https://github.com/vietphan1995/e-dictionary.git)
 
+✉️ [Send to email: vietphan95@outlook.com](mailto:vietphan95@outlook.com?subject=register_idea:e-dictionary_project&body=left_your_idea)
+
 e-dictionary is a application software helps you lookup meaning, sentences from short code, summary characters as digital dictionary. These short codes are accepted and used widely in community, social, organization, …
 
 e-dictionary organizes duplication short code and explain to meaning, sentence correspond to your community, group, … Your definition for short code in your company, group can be saved as private or public in wider community.
@@ -19,6 +21,8 @@ YDKWYDK → You dont know what you dont know
 WWW → World Wide Web
 
 FIFA, CEO, BTC, …
+
+.
 
 ### [back to git projects …](https://github.com/vietphan1995/projects)
 
